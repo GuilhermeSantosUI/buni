@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="157 192 1535 550" role="img" aria-label="b.Uni">
+<path fill="#0A1A2A" fill-rule="evenodd" d="M157 270H288V351.7A198 198 0 1 1 157 538Z M287 538a68 68 0 1 0 136 0a68 68 0 1 0-136 0Z"/>
+<circle cx="629" cy="522" r="68" fill="#0A1A2A"/>
+<mask id="m" maskUnits="userSpaceOnUse" x="0" y="0" width="2000" height="1000"><rect width="2000" height="1000" fill="#fff"/><circle cx="629" cy="522" r="90" fill="#000"/></mask>
+<g mask="url(#m)" fill="#0A1A2A"><path d="M645 279A234 234 0 0 1 879 513L645 513Z"/><path d="M718 506.5A234 234 0 0 0 1186 506.5L1025 506.5A73 73 0 0 1 879 506.5Z"/><path d="M718 500H879V515H718Z M1025 500H1186V515H1025Z"/><path d="M1025 513A234 234 0 0 1 1493 513L1332 513A73 73 0 0 0 1186 513Z"/><path d="M1332 500H1495V740H1332Z"/><path d="M1456 348H1617V512H1456Z"/><path d="M1691 737A234 234 0 0 1 1457 503L1617 503A74 74 0 0 0 1691 577Z"/></g>
+<circle cx="1540" cy="260" r="68" fill="#0A1A2A"/>
+</svg>
